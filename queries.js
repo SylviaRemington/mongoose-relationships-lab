@@ -1,4 +1,7 @@
-// MONGOOSE RELATIONSHIPS LAB - taken from a zip Tristan created specifically for this lesson since GA didn't have a lesson created for it.
+// MONGOOSE RELATIONSHIPS LAB - taken from a zip Tristan created specifically for 
+// this lesson since GA didn't have a lesson created for it.
+
+// Go through TODO sections and implement lesson functions.
 
 
 const dotenv = require("dotenv");
