@@ -147,3 +147,4 @@ Try implementing a many-to-many relationship where:
 - Movies can have multiple genres
 - Genres can have multiple movies
 - Update your queries to handle this new relationship structure
+
